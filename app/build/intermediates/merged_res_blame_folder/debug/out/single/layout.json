@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_success.xml",
+        "source": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/res/layout/layout_success.xml"
+    },
+    {
+        "merged": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_loader.xml",
+        "source": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/res/layout/layout_loader.xml"
+    },
+    {
+        "merged": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_article.xml",
+        "source": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/res/layout/item_article.xml"
+    },
+    {
+        "merged": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_splash.xml",
+        "source": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/res/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_no_connection.xml",
+        "source": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/res/layout/layout_no_connection.xml"
+    },
+    {
+        "merged": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/article_details_sheet.xml",
+        "source": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/res/layout/article_details_sheet.xml"
+    },
+    {
+        "merged": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/toolbar.xml",
+        "source": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/rate_item.xml",
+        "source": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/res/layout/rate_item.xml"
+    },
+    {
+        "merged": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_error.xml",
+        "source": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/res/layout/layout_error.xml"
+    }
+]

@@ -1,0 +1,65 @@
+com/app/nytimes/databinding/ArticleDetailsSheetBindingImpl.java
+ com.app.nytimes.databinding.ArticleDetailsSheetBindingImpl
+com/app/nytimes/databinding/LayoutNoConnectionBindingImpl.java
+ com.app.nytimes.databinding.LayoutNoConnectionBindingImpl
+com/app/nytimes/DataBindingTriggerClass.java
+ com.app.nytimes.DataBindingTriggerClass
+com/app/nytimes/databinding/LayoutErrorBinding.java
+ com.app.nytimes.databinding.LayoutErrorBinding
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/app/nytimes/databinding/LayoutNoConnectionBinding.java
+ com.app.nytimes.databinding.LayoutNoConnectionBinding
+com/app/nytimes/generated/callback/OnClickListener.java
+ com.app.nytimes.generated.callback.OnClickListener
+ com.app.nytimes.generated.callback.OnClickListener$Listener
+com/app/nytimes/ui/home/HomeFragmentDirections.java
+ com.app.nytimes.ui.home.HomeFragmentDirections
+ com.app.nytimes.ui.home.HomeFragmentDirections$1
+ com.app.nytimes.ui.home.HomeFragmentDirections$ActionHomeFragmentToArticleDetailsFragmnet
+com/app/nytimes/ui/home/ArticleDetailsSheetArgs.java
+ com.app.nytimes.ui.home.ArticleDetailsSheetArgs
+ com.app.nytimes.ui.home.ArticleDetailsSheetArgs$1
+ com.app.nytimes.ui.home.ArticleDetailsSheetArgs$Builder
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/app/nytimes/databinding/LayoutSuccessBinding.java
+ com.app.nytimes.databinding.LayoutSuccessBinding
+com/app/nytimes/databinding/RateItemBinding.java
+ com.app.nytimes.databinding.RateItemBinding
+com/app/nytimes/databinding/ActivityMainBinding.java
+ com.app.nytimes.databinding.ActivityMainBinding
+com/app/nytimes/databinding/ToolbarBinding.java
+ com.app.nytimes.databinding.ToolbarBinding
+com/app/nytimes/BR.java
+ com.app.nytimes.BR
+com/app/nytimes/databinding/LayoutSuccessBindingImpl.java
+ com.app.nytimes.databinding.LayoutSuccessBindingImpl
+com/app/nytimes/databinding/ActivityMainBindingImpl.java
+ com.app.nytimes.databinding.ActivityMainBindingImpl
+com/app/nytimes/BuildConfig.java
+ com.app.nytimes.BuildConfig
+com/app/nytimes/databinding/FragmentSplashBindingImpl.java
+ com.app.nytimes.databinding.FragmentSplashBindingImpl
+com/app/nytimes/databinding/FragmentSplashBinding.java
+ com.app.nytimes.databinding.FragmentSplashBinding
+com/app/nytimes/ui/splash/SplashFragmentDirections.java
+ com.app.nytimes.ui.splash.SplashFragmentDirections
+com/app/nytimes/databinding/LayoutErrorBindingImpl.java
+ com.app.nytimes.databinding.LayoutErrorBindingImpl
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/app/nytimes/databinding/ArticleDetailsSheetBinding.java
+ com.app.nytimes.databinding.ArticleDetailsSheetBinding
+com/app/nytimes/databinding/ItemArticleBinding.java
+ com.app.nytimes.databinding.ItemArticleBinding
+com/app/nytimes/DataBinderMapperImpl.java
+ com.app.nytimes.DataBinderMapperImpl
+ com.app.nytimes.DataBinderMapperImpl$InnerBrLookup
+ com.app.nytimes.DataBinderMapperImpl$InnerLayoutIdLookup
+com/app/nytimes/databinding/FragmentHomeBinding.java
+ com.app.nytimes.databinding.FragmentHomeBinding
+com/app/nytimes/databinding/LayoutLoaderBinding.java
+ com.app.nytimes.databinding.LayoutLoaderBinding
+com/app/nytimes/databinding/ItemArticleBindingImpl.java
+ com.app.nytimes.databinding.ItemArticleBindingImpl

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="article"
+            type="com.app.nytimes.model.entities.ArticlesResponse" />
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.google.android.material.appbar.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:background="@color/colorWhite"
+            android:gravity="center"
+            app:elevation="0dp"
+            android:paddingTop="4dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/imgBack"
+                    android:layout_width="@dimen/dp20w"
+                    android:layout_height="@dimen/dp20h"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="center|start"
+                    android:layout_marginStart="@dimen/dp14w"
+                    android:src="@drawable/ic_arrow_left_solid" />
+
+                <TextView
+                    android:id="@+id/tv_page_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:text="Article Details"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/sp14" />
+            </RelativeLayout>
+        </com.google.android.material.appbar.AppBarLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="true">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/iv_article"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dp150h"
+                    android:scaleType="fitXY"
+                    android:elevation="4dp"
+                    bind:imageUrl="@{article.media.get(0).mediaMetadata.get(0).url}"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/tv_article_author"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/dp16w"
+                    android:layout_marginTop="@dimen/dp10h"
+                    android:layout_marginEnd="@dimen/dp16w"
+                    android:fontFamily="@font/montserrat_semi_bold"
+                    android:text='@{article.source??""}'
+                    android:textColor="@color/colorGrey"
+                    android:textSize="14sp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/iv_article"
+                    tools:text="BBC News" />
+
+                <TextView
+                    android:id="@+id/tv_date"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp10h"
+                    android:layout_marginEnd="@dimen/dp16w"
+                    android:gravity="center"
+                    android:drawableStart="@drawable/ic_baseline_date_range_24"
+                    android:fontFamily="@font/montserrat_semi_bold"
+                    android:text='@{article.publishedDate??""}'
+                    android:textColor="@color/colorGrey"
+                    android:textSize="14sp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/iv_article"
+                    tools:text="20*202/200" />
+
+                <TextView
+                    android:id="@+id/tv_article_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/dp16w"
+                    android:layout_marginTop="@dimen/dp4h"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:text='@{article.title??""}'
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/sp16"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/tv_date"
+                    tools:text="Article name" />
+
+
+                <TextView
+                    android:id="@+id/tv_article_details"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/dp16w"
+                    android:layout_marginTop="@dimen/dp8h"
+                    android:layout_marginEnd="@dimen/dp16w"
+                    android:fontFamily="@font/montserrat_semi_bold"
+                    android:text="@{article.media.get(0).caption}"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="@dimen/sp12"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/tv_article_name"
+                    tools:text="Article name" />
+
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </ScrollView>
+    </LinearLayout>
+</layout>

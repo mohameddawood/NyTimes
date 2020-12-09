@@ -1,0 +1,118 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.app.nytimes"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:5:5-79
+11-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:6:5-67
+12-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:7:5-76
+13-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:7:22-73
+14    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+14-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:8:5-80
+14-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:8:22-77
+15
+16    <application
+16-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:10:5-32:19
+17        android:name="com.app.nytimes.manager.base.BaseApplication"
+17-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:11:9-53
+18        android:allowBackup="true"
+18-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:12:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/f61aee69993eeba717147da1a6c5c8bb/core-1.3.2/AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@drawable/ic_home"
+21-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:13:9-41
+22        android:label="@string/app_name"
+22-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:14:9-41
+23        android:roundIcon="@drawable/ic_home"
+23-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:15:9-46
+24        android:supportsRtl="true"
+24-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:16:9-35
+25        android:theme="@style/AppTheme"
+25-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:17:9-40
+26        android:usesCleartextTraffic="true" >
+26-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:18:9-44
+27        <uses-library
+27-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:21:9-23:40
+28            android:name="org.apache.http.legacy"
+28-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:22:13-50
+29            android:required="false" />
+29-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:23:13-37
+30
+31        <activity android:name="com.app.nytimes.ui.MainActivity" >
+31-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:25:9-31:20
+31-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:25:19-50
+32            <intent-filter>
+32-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:26:13-30:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:27:17-69
+33-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:27:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:29:17-77
+35-->/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:29:27-74
+36            </intent-filter>
+37        </activity>
+38
+39        <provider
+39-->[com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:23:9-26:40
+40            android:name="com.readystatesoftware.chuck.internal.data.ChuckContentProvider"
+40-->[com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:24:13-91
+41            android:authorities="com.app.nytimes.chuck.provider"
+41-->[com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:25:13-66
+42            android:exported="false" />
+42-->[com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:26:13-37
+43
+44        <activity
+44-->[com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:28:9-33:50
+45            android:name="com.readystatesoftware.chuck.internal.ui.MainActivity"
+45-->[com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:29:13-81
+46            android:label="@string/chuck_name"
+46-->[com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:30:13-47
+47            android:launchMode="singleTask"
+47-->[com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:31:13-44
+48            android:taskAffinity="com.readystatesoftware.chuck.task"
+48-->[com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:32:13-69
+49            android:theme="@style/Chuck.Theme" />
+49-->[com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:33:13-47
+50        <activity
+50-->[com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:34:9-37:50
+51            android:name="com.readystatesoftware.chuck.internal.ui.TransactionActivity"
+51-->[com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:35:13-88
+52            android:parentActivityName="com.readystatesoftware.chuck.internal.ui.MainActivity"
+52-->[com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:36:13-95
+53            android:theme="@style/Chuck.Theme" />
+53-->[com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:37:13-47
+54
+55        <service
+55-->[com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:39:9-41:40
+56            android:name="com.readystatesoftware.chuck.internal.support.ClearTransactionsService"
+56-->[com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:40:13-98
+57            android:exported="false" />
+57-->[com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:41:13-37
+58
+59        <provider
+59-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+60            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+60-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+61            android:authorities="com.app.nytimes.lifecycle-process"
+61-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+62            android:exported="false"
+62-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+63            android:multiprocess="true" />
+63-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+64    </application>
+65
+66</manifest>

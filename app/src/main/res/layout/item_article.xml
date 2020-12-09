@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="adapter"
+            type="com.app.nytimes.ui.home.ArticlesAdapter" />
+        <variable
+            name="response"
+            type="com.app.nytimes.model.entities.ArticlesResponse" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/layout_article"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dp12w"
+        android:onClick="@{()->adapter.observeItemClick(response)}"
+        android:padding="@dimen/dp8h">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/iv_article"
+            android:layout_width="@dimen/dp40h"
+            app:cardCornerRadius="24dp"
+            android:layout_height="@dimen/dp40h"
+            android:layout_marginStart="@dimen/dp16w"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                bind:imageUrl="@{response.media.get(0).mediaMetadata.get(0).url}"
+                android:layout_width="@dimen/dp40h"
+                android:layout_height="@dimen/dp40h"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+            >
+
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/tv_article_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dp10w"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="@dimen/dp10w"
+            android:fontFamily="@font/montserrat_semi_bold"
+            android:text='@{response.title??""}'
+            android:textColor="@color/colorBlack"
+            android:textSize="14sp"
+            app:layout_constraintEnd_toStartOf="@+id/iv_arrow"
+            app:layout_constraintStart_toEndOf="@+id/iv_article"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Object oriented programming " />
+
+        <TextView
+            android:id="@+id/tv_article_author"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dp10w"
+            android:layout_marginTop="16dp"
+            android:fontFamily="@font/montserrat_semi_bold"
+            android:text='@{response.source??""}'
+            android:textColor="@color/colorGrey"
+            android:textSize="14sp"
+            app:layout_constraintEnd_toStartOf="@+id/tv_article_date"
+            app:layout_constraintStart_toEndOf="@+id/iv_article"
+            app:layout_constraintTop_toBottomOf="@+id/tv_article_name"
+            tools:text="New York TimesNew York TimesNew York TimesNew York TimesNew York Times " />
+
+        <TextView
+            android:id="@+id/tv_article_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dp4w"
+            android:layout_marginEnd="@dimen/dp10w"
+            android:drawableStart="@drawable/ic_baseline_date_range_24"
+            android:drawablePadding="@dimen/dp4w"
+            android:fontFamily="@font/montserrat_semi_bold"
+            android:gravity="center"
+            android:text='@{response.publishedDate??""}'
+            android:textColor="@color/colorGrey"
+            android:textSize="12sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/iv_arrow"
+            app:layout_constraintStart_toEndOf="@+id/tv_article_author"
+            tools:text="203+21+22" />
+
+        <ImageView
+            android:id="@+id/iv_arrow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/ic_baseline_arrow_forward_ios_24"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
