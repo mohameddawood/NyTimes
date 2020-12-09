@@ -9,7 +9,8 @@ NyTimes app
   - Repository desing pattern
   - DataBinding and ViewBinding
   
-  
+
+  ![Alt text](../main/Untitlsed.png?raw=true "Title")    
   ![Alt text](../main/Untitled.png?raw=true "Title")    
 
   
