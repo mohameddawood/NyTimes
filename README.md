@@ -10,7 +10,7 @@ NyTimes app
   - DataBinding and ViewBinding
   
   
-  ![Alt text](NyTimes/Untitled.png?raw=true "Title")    
+  ![Alt text](../main/Untitled.png?raw=true "Title")    
 
   
   
