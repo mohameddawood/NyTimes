@@ -8,3 +8,9 @@ NyTimes app
   - Retrofit and Rxjava
   - Repository desing pattern
   - DataBinding and ViewBinding
+  
+  
+  
+  
+  
+
