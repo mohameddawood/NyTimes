@@ -1,5 +1,5 @@
 name: Android Build
-on: pull_reqest
+on: pull_request
 
 jobs:
   build:
