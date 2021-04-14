@@ -33,6 +33,10 @@ class MainActivity : BaseActivity() {
     @Inject
     lateinit var doSomething: DoSomething
 
+
+
+    //fsdfsdf
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         val binding: ActivityMainBinding =
