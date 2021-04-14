@@ -4,9 +4,11 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dd9592ce5d38c7e5735b4a7b0cb0c044/jetified-koin-androidx-scope-2.1.5/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/554968d8cee6f1a9a94c50aac15b48a1/jetified-koin-androidx-scope-2.1.5/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/36fa0cf5f34fed0d6ca93cac36b4a437/jetified-koin-androidx-scope-2.1.5/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e6c93bd7dd926f18bbba938b52859732/jetified-koin-androidx-scope-2.1.5/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e6c93bd7dd926f18bbba938b52859732/jetified-koin-androidx-scope-2.1.5/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e6c93bd7dd926f18bbba938b52859732/jetified-koin-androidx-scope-2.1.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c738e62478b6572be33013c1d65182a0/jetified-koin-androidx-scope-2.1.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f2aba3c2fbc1401967a6200c69ed417d/jetified-koin-androidx-scope-2.1.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f2aba3c2fbc1401967a6200c69ed417d/jetified-koin-androidx-scope-2.1.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f2aba3c2fbc1401967a6200c69ed417d/jetified-koin-androidx-scope-2.1.5/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-scope/2.1.5/c4c46eae9cc90f9a1874c2d4c39cfeeb7755504b/koin-androidx-scope-2.1.5-javadoc.jar!/" />

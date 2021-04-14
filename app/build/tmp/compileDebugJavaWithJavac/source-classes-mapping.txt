@@ -4,8 +4,12 @@ com/app/nytimes/databinding/LayoutNoConnectionBindingImpl.java
  com.app.nytimes.databinding.LayoutNoConnectionBindingImpl
 com/app/nytimes/DataBindingTriggerClass.java
  com.app.nytimes.DataBindingTriggerClass
+com/app/nytimes/databinding/LayoutLoaderBinding.java
+ com.app.nytimes.databinding.LayoutLoaderBinding
 com/app/nytimes/databinding/LayoutErrorBinding.java
  com.app.nytimes.databinding.LayoutErrorBinding
+com/app/nytimes/databinding/FragmentHomeBinding.java
+ com.app.nytimes.databinding.FragmentHomeBinding
 androidx/databinding/DataBinderMapperImpl.java
  androidx.databinding.DataBinderMapperImpl
 com/app/nytimes/databinding/LayoutNoConnectionBinding.java
@@ -27,39 +31,101 @@ com/app/nytimes/databinding/LayoutSuccessBinding.java
  com.app.nytimes.databinding.LayoutSuccessBinding
 com/app/nytimes/databinding/RateItemBinding.java
  com.app.nytimes.databinding.RateItemBinding
+com/app/nytimes/databinding/ItemArticleBinding.java
+ com.app.nytimes.databinding.ItemArticleBinding
 com/app/nytimes/databinding/ActivityMainBinding.java
  com.app.nytimes.databinding.ActivityMainBinding
+com/app/nytimes/databinding/ItemArticleBindingImpl.java
+ com.app.nytimes.databinding.ItemArticleBindingImpl
 com/app/nytimes/databinding/ToolbarBinding.java
  com.app.nytimes.databinding.ToolbarBinding
 com/app/nytimes/BR.java
  com.app.nytimes.BR
 com/app/nytimes/databinding/LayoutSuccessBindingImpl.java
  com.app.nytimes.databinding.LayoutSuccessBindingImpl
+com/app/nytimes/databinding/ArticleDetailsSheetBinding.java
+ com.app.nytimes.databinding.ArticleDetailsSheetBinding
 com/app/nytimes/databinding/ActivityMainBindingImpl.java
  com.app.nytimes.databinding.ActivityMainBindingImpl
+hilt_aggregated_deps/com_app_nytimes_ui_MainActivity_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_app_nytimes_ui_MainActivity_GeneratedInjectorModuleDeps
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
 com/app/nytimes/BuildConfig.java
  com.app.nytimes.BuildConfig
 com/app/nytimes/databinding/FragmentSplashBindingImpl.java
  com.app.nytimes.databinding.FragmentSplashBindingImpl
-com/app/nytimes/databinding/FragmentSplashBinding.java
- com.app.nytimes.databinding.FragmentSplashBinding
-com/app/nytimes/ui/splash/SplashFragmentDirections.java
- com.app.nytimes.ui.splash.SplashFragmentDirections
-com/app/nytimes/databinding/LayoutErrorBindingImpl.java
- com.app.nytimes.databinding.LayoutErrorBindingImpl
-androidx/databinding/DataBindingComponent.java
- androidx.databinding.DataBindingComponent
-com/app/nytimes/databinding/ArticleDetailsSheetBinding.java
- com.app.nytimes.databinding.ArticleDetailsSheetBinding
-com/app/nytimes/databinding/ItemArticleBinding.java
- com.app.nytimes.databinding.ItemArticleBinding
 com/app/nytimes/DataBinderMapperImpl.java
  com.app.nytimes.DataBinderMapperImpl
  com.app.nytimes.DataBinderMapperImpl$InnerBrLookup
  com.app.nytimes.DataBinderMapperImpl$InnerLayoutIdLookup
-com/app/nytimes/databinding/FragmentHomeBinding.java
- com.app.nytimes.databinding.FragmentHomeBinding
-com/app/nytimes/databinding/LayoutLoaderBinding.java
- com.app.nytimes.databinding.LayoutLoaderBinding
-com/app/nytimes/databinding/ItemArticleBindingImpl.java
- com.app.nytimes.databinding.ItemArticleBindingImpl
+com/app/nytimes/databinding/FragmentSplashBinding.java
+ com.app.nytimes.databinding.FragmentSplashBinding
+com/app/nytimes/ui/splash/SplashFragmentDirections.java
+ com.app.nytimes.ui.splash.SplashFragmentDirections
+hilt_aggregated_deps/com_app_nytimes_ui_SomeModuleModuleDeps.java
+ hilt_aggregated_deps.com_app_nytimes_ui_SomeModuleModuleDeps
+hilt_aggregated_deps/com_app_nytimes_manager_base_BaseApplication_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_app_nytimes_manager_base_BaseApplication_GeneratedInjectorModuleDeps
+com/app/nytimes/manager/base/BaseApplication_GeneratedInjector.java
+ com.app.nytimes.manager.base.BaseApplication_GeneratedInjector
+com/app/nytimes/databinding/LayoutErrorBindingImpl.java
+ com.app.nytimes.databinding.LayoutErrorBindingImpl
+com/app/nytimes/ui/DoAnotherSomething_Factory.java
+ com.app.nytimes.ui.DoAnotherSomething_Factory
+com/app/nytimes/ui/SomeModule_ProvideInterface0Factory.java
+ com.app.nytimes.ui.SomeModule_ProvideInterface0Factory
+com/app/nytimes/ui/SomeModule_ProvideInterfaceFactory.java
+ com.app.nytimes.ui.SomeModule_ProvideInterfaceFactory
+com/app/nytimes/manager/base/BaseApplication_HiltComponents.java
+ com.app.nytimes.manager.base.BaseApplication_HiltComponents
+ com.app.nytimes.manager.base.BaseApplication_HiltComponents$ActivityC
+ com.app.nytimes.manager.base.BaseApplication_HiltComponents$ActivityC$Builder
+ com.app.nytimes.manager.base.BaseApplication_HiltComponents$ActivityCBuilderModule
+ com.app.nytimes.manager.base.BaseApplication_HiltComponents$ActivityRetainedC
+ com.app.nytimes.manager.base.BaseApplication_HiltComponents$ActivityRetainedC$Builder
+ com.app.nytimes.manager.base.BaseApplication_HiltComponents$ActivityRetainedCBuilderModule
+ com.app.nytimes.manager.base.BaseApplication_HiltComponents$ApplicationC
+ com.app.nytimes.manager.base.BaseApplication_HiltComponents$FragmentC
+ com.app.nytimes.manager.base.BaseApplication_HiltComponents$FragmentC$Builder
+ com.app.nytimes.manager.base.BaseApplication_HiltComponents$FragmentCBuilderModule
+ com.app.nytimes.manager.base.BaseApplication_HiltComponents$ServiceC
+ com.app.nytimes.manager.base.BaseApplication_HiltComponents$ServiceC$Builder
+ com.app.nytimes.manager.base.BaseApplication_HiltComponents$ServiceCBuilderModule
+ com.app.nytimes.manager.base.BaseApplication_HiltComponents$ViewC
+ com.app.nytimes.manager.base.BaseApplication_HiltComponents$ViewC$Builder
+ com.app.nytimes.manager.base.BaseApplication_HiltComponents$ViewCBuilderModule
+ com.app.nytimes.manager.base.BaseApplication_HiltComponents$ViewWithFragmentC
+ com.app.nytimes.manager.base.BaseApplication_HiltComponents$ViewWithFragmentC$Builder
+ com.app.nytimes.manager.base.BaseApplication_HiltComponents$ViewWithFragmentCBuilderModule
+com/app/nytimes/ui/MainActivity_MembersInjector.java
+ com.app.nytimes.ui.MainActivity_MembersInjector
+com/app/nytimes/ui/Hilt_MainActivity.java
+ com.app.nytimes.ui.Hilt_MainActivity
+com/app/nytimes/manager/base/DaggerBaseApplication_HiltComponents_ApplicationC.java
+ com.app.nytimes.manager.base.DaggerBaseApplication_HiltComponents_ApplicationC
+ com.app.nytimes.manager.base.DaggerBaseApplication_HiltComponents_ApplicationC$1
+ com.app.nytimes.manager.base.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCBuilder
+ com.app.nytimes.manager.base.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl
+ com.app.nytimes.manager.base.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCBuilder
+ com.app.nytimes.manager.base.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl
+ com.app.nytimes.manager.base.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$FragmentCBuilder
+ com.app.nytimes.manager.base.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl
+ com.app.nytimes.manager.base.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl$ViewWithFragmentCBuilder
+ com.app.nytimes.manager.base.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl$ViewWithFragmentCImpl
+ com.app.nytimes.manager.base.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$ViewCBuilder
+ com.app.nytimes.manager.base.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$ViewCImpl
+ com.app.nytimes.manager.base.DaggerBaseApplication_HiltComponents_ApplicationC$Builder
+ com.app.nytimes.manager.base.DaggerBaseApplication_HiltComponents_ApplicationC$ServiceCBuilder
+ com.app.nytimes.manager.base.DaggerBaseApplication_HiltComponents_ApplicationC$ServiceCImpl
+com/app/nytimes/ui/DoSomething_Factory.java
+ com.app.nytimes.ui.DoSomething_Factory
+com/app/nytimes/ui/SomeModule_ProvideStringFactory.java
+ com.app.nytimes.ui.SomeModule_ProvideStringFactory
+com/app/nytimes/ui/MainActivity_GeneratedInjector.java
+ com.app.nytimes.ui.MainActivity_GeneratedInjector
+com/app/nytimes/manager/base/Hilt_BaseApplication.java
+ com.app.nytimes.manager.base.Hilt_BaseApplication
+ com.app.nytimes.manager.base.Hilt_BaseApplication$1
+com/app/nytimes/ui/SomeInterfaceImpl_Factory.java
+ com.app.nytimes.ui.SomeInterfaceImpl_Factory

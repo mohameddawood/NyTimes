@@ -4,7 +4,17 @@
             "outputFile": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/mdawood/.gradle/caches/transforms-2/files-2.1/6927ee2c7c83df57add1b0afde3e1a15/material-1.2.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "source": "/home/mdawood/.gradle/caches/transforms-2/files-2.1/7d2e2b4618defcd2963ba0b0a20656fb/appcompat-1.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "/home/mdawood/.gradle/caches/transforms-2/files-2.1/3e64b9a71a99cc283846288c9dae475d/material-1.2.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -20,16 +30,6 @@
                         "endLines": "11,12,13,14,15,16,18,19,1041,1042,1148,1152",
                         "endColumns": "59,69,70,71,57,57,10,63,55,58,62,10",
                         "endOffsets": "706,776,847,919,977,1035,1144,1208,43501,43560,47786,47958"
-                    }
-                },
-                {
-                    "source": "/home/mdawood/.gradle/caches/transforms-2/files-2.1/c6e850bffee516928e276ea7faf33a10/appcompat-1.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,124,193,263,337,413,472,543",
-                        "endColumns": "68,68,69,73,75,58,70,67",
-                        "endOffsets": "119,188,258,332,408,467,538,606"
                     }
                 },
                 {

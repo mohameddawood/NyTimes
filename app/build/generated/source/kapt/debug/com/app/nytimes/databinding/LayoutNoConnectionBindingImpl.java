@@ -5,6 +5,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import android.view.View;
 @SuppressWarnings("unchecked")
+@javax.annotation.Generated("Android Data Binding")
 public class LayoutNoConnectionBindingImpl extends LayoutNoConnectionBinding implements com.app.nytimes.generated.callback.OnClickListener.Listener {
 
     @Nullable

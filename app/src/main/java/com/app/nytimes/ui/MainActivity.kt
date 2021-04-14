@@ -4,6 +4,7 @@ import android.os.Build
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
+import android.util.Log
 import android.view.View
 import androidx.databinding.DataBindingUtil
 import androidx.navigation.NavController
@@ -14,13 +15,27 @@ import androidx.navigation.ui.setupActionBarWithNavController
 import com.app.nytimes.R
 import com.app.nytimes.databinding.ActivityMainBinding
 import com.app.nytimes.manager.base.BaseActivity
-import com.app.nytimes.manager.base.ResponseManager
-import org.koin.android.ext.android.inject
+import dagger.Module
+import dagger.Provides
+import dagger.hilt.InstallIn
+import dagger.hilt.android.AndroidEntryPoint
+import dagger.hilt.android.components.ApplicationComponent
+import javax.inject.Inject
+import javax.inject.Qualifier
+import javax.inject.Singleton
 
 
+@AndroidEntryPoint
 class MainActivity : BaseActivity() {
 
     private lateinit var appBarConfiguration: AppBarConfiguration
+
+    @Inject
+    lateinit var doSomething: DoSomething
+
+
+
+    //fsdfsdf
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -30,11 +45,10 @@ class MainActivity : BaseActivity() {
 
         initializeStatusBar(R.color.colorPrimary)
         initializeAppBar()
-
-
         userNavigation()
-    }
 
+        Log.d("DDEEDD", doSomething.doSomething())
+    }
 
 
     private fun userNavigation() {
@@ -58,7 +72,7 @@ class MainActivity : BaseActivity() {
         }
     }
 
-    private fun initializeAppBar(){
+    private fun initializeAppBar() {
         appBarConfiguration = AppBarConfiguration.Builder(getNavHost().graph).build()
         setupActionBarWithNavController(getNavHost(), appBarConfiguration)
         NavigationUI.setupActionBarWithNavController(this, getNavHost(), null)
@@ -69,3 +83,64 @@ class MainActivity : BaseActivity() {
     }
 
 }
+
+class DoSomething @Inject constructor(
+    private val doAnotherSomething: DoAnotherSomething
+) {
+    fun doSomething() = doAnotherSomething.doAnotherSomething()
+}
+
+class DoAnotherSomething @Inject constructor(
+   @InterfaceTwo private val someInterface: SomeInterface
+) {
+    fun doAnotherSomething() = someInterface.donInterfaceJob()
+}
+
+class SomeInterfaceImpl @Inject constructor(val message: String) : SomeInterface {
+    override fun donInterfaceJob() = "i did second hilt injection -> $message"
+}
+
+interface SomeInterface {
+    fun donInterfaceJob(): String
+}
+
+//@InstallIn(ActivityComponent::class)
+@InstallIn(ApplicationComponent::class)
+@Module
+class SomeModule {
+
+    // @ActivityScoped
+    /**
+    @Singleton
+    @Binds
+    abstract fun bindSomeInterface(someInterfaceImpl: SomeInterfaceImpl):SomeInterface
+     ***/
+    @InterfaceOne
+    @Singleton
+    @Provides
+    fun provideInterface(string: String): SomeInterface {
+        return SomeInterfaceImpl(string)
+    }
+
+    @InterfaceTwo
+    @Singleton
+    @Provides
+    fun provideInterface0(string: String): SomeInterface {
+        return SomeInterfaceImpl(string)
+    }
+
+    @Singleton
+    @Provides
+    fun provideString(): String {
+        return "ProvideNewInstance"
+    }
+
+}
+
+@Qualifier
+@Retention(AnnotationRetention.BINARY)
+annotation class InterfaceOne
+
+@Qualifier
+@Retention(AnnotationRetention.BINARY)
+annotation class InterfaceTwo
