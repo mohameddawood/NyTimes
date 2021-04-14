@@ -1,23 +1,23 @@
 [
     {
-        "merged": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_more.png.flat",
-        "source": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/generated/res/pngs/debug/drawable-hdpi/ic_more.png"
-    },
-    {
         "merged": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_logo_white.xml.flat",
         "source": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_logo_white.xml"
+    },
+    {
+        "merged": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_more.png.flat",
+        "source": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/generated/res/pngs/debug/drawable-hdpi/ic_more.png"
     },
     {
         "merged": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
-    },
-    {
         "merged": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/intermediates/res/merged/debug/font_montserrat_regular.ttf.flat",
         "source": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/res/font/montserrat_regular.ttf"
+    },
+    {
+        "merged": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
     },
     {
         "merged": "/mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",

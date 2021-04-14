@@ -4,70 +4,72 @@ ADDED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/Andro
 INJECTED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:2:1-34:12
 INJECTED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:2:1-34:12
 INJECTED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:2:1-34:12
-MERGED from [androidx.databinding:databinding-adapters:4.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/6216e9621a12786946ff5402fc2f033b/databinding-adapters-4.1.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.databinding:databinding-runtime:4.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9aac24eb91e4f879977a5bf5b9c37157/databinding-runtime-4.1.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.databinding:viewbinding:4.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9add5d775da135dd49082ba631b3ac18/jetified-viewbinding-4.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:17:1-44:12
-MERGED from [androidx.multidex:multidex:2.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/8adf84f34994b9307810f5f6266cbe4a/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d3d6a97b87579d39b06bf80027e920a7/navigation-fragment-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/e9ce15cf8dc6d3f936f25d972f0bd571/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/8194ac5bc2e5aaee1a1ad764ea793ad0/navigation-ui-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/68fa60699eb9dcaf9e0a1cbcb2cabed6/navigation-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9fb1653be99b87ebdb4a98b5d5351ea1/navigation-common-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity-ktx:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/85ae74c57985692f1fa3c5b181e73cd3/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core-ktx:1.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/bc7f87090ca34390094702bb2008170d/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/bc4dc3d0cdd01db84c64a8bb8a66f7b9/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/13dd01b6fa0af3348f6ec10bfe85163b/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.airbnb.android:lottie:3.4.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c786d2010872499fc1f216fc7789d00a/jetified-lottie-3.4.4/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/48520777e74a5e5088f9597951bf8191/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [org.koin:koin-androidx-viewmodel:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/fa8918c945f4290e2b97dff29a6a44fc/jetified-koin-androidx-viewmodel-2.1.5/AndroidManifest.xml:2:1-9:12
-MERGED from [org.koin:koin-androidx-scope:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/e6c93bd7dd926f18bbba938b52859732/jetified-koin-androidx-scope-2.1.5/AndroidManifest.xml:2:1-9:12
-MERGED from [org.koin:koin-androidx-fragment:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/195c282e5e0f24b0853ffd918a5bf96d/jetified-koin-androidx-fragment-2.1.5/AndroidManifest.xml:2:1-9:12
-MERGED from [org.koin:koin-android:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/2f1fbafacb8a59440cd3322e3dbfa073/jetified-koin-android-2.1.5/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/7d67ad7ac45429e60c202009faa29f2d/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/83ee536ff85059f31aed7ca0e988de80/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.navigation:navigation-ui:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/75fc90dd4804fcdb8bdb4d9b8646f5a5/navigation-ui-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.material:material:1.2.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/6927ee2c7c83df57add1b0afde3e1a15/material-1.2.1/AndroidManifest.xml:17:1-24:12
-MERGED from [org.aviran.cookiebar2:cookiebar2:1.1.3] /home/mdawood/.gradle/caches/transforms-2/files-2.1/be19de71876e8fbee008b11a80289348/jetified-cookiebar2-1.1.3/AndroidManifest.xml:2:1-13:12
-MERGED from [com.chaos.view:pinview:1.4.3] /home/mdawood/.gradle/caches/transforms-2/files-2.1/acf522540627a28212a9c4b7141b7b62/jetified-pinview-1.4.3/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c6e850bffee516928e276ea7faf33a10/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/b1b153a2fc9fd35e23337c581a6cd8cf/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
-MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/5ab61dcf9890c6f6a20cd1fd970b82fb/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/b7620d30dd1d45afeff09bc267c483cb/jetified-rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
-MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/f562a51ce65c2165fe2c202fa2092504/lifecycle-reactivestreams-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/366542bdc63c3dbd0b09bb106fe4a8e0/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/694d0be3fb304a602e963f34c6dab06a/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/f379d95d0ff945370307735e7dfa5572/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/6cbf3df7a545fb9e98deff97defeff25/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d5e5b995853df9e3b0d1abde469bc084/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c180c8861ac2568bd3842aa72a8d759a/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-fragment:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/4f0e8ca2c0139c349b72e334208aeeca/navigation-fragment-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.2.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/607c3024a4a518600029405bb42bec02/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/be488b41fa4da0b2563ef53aa9c1f1eb/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/271e6de7ce9db873cdad8b436fb11a39/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/b1af35d851a7b1902f51e36b8a695b43/customview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.3.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/bf47b15611f180761b95369d1114cca0/transition-1.3.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-runtime:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/4a62a29312f56a40a75ec9e7947a7b6d/navigation-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-common:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d5be92d481b88379306553ef9460f368/navigation-common-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/e92b80f40cbcad08b59a54beaa5f20da/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.loader:loader:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/0c7c4d6c761a5f35ff1701d1fe2abe7e/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/f61aee69993eeba717147da1a6c5c8bb/core-1.3.2/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/3399da4652887216b1f15e9fea5a64cb/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/3990a8ed717bd2bc6e24bbecabdfebbf/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
-MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/4d2b5f6b901203aa4dad0425927369ae/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a95739b442976ac2d9de40a12086ee6d/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/33562edb2724523aa489688f428b2164/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/933d816f20c84747cf4b75c608cb4345/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/5bad58fed49503834bcb7778444163d8/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d54b1e1a7f5f51df407f964db1685795/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/6b104855c44408f13ab9134850e3a15c/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9ef2c05b6d3d960e32ce5469d4905268/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d4f482f6eced87448c1f9ff6b7e69905/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/795748223de1c9ed5d3eb4dba9fd32b6/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/4a993e2718a72ba4f84b8a60ea1226c0/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c4504c46a8f8c951228c8b302e2173c2/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/139dd713697991e78371aa7203510e73/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/37d87ab15009631f1643dbbd74eff5aa/databinding-adapters-4.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/828894006eb648bf8df8be18af359b33/databinding-runtime-4.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:4.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/8646696e4c31ae2704ad34319d60cb3f/jetified-viewbinding-4.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/5d69d6df020acd82e72995030cc07544/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/0416472acf4a5e446de2c99f1453bfef/navigation-fragment-ktx-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/ac038d699e35528fa98dc9ecd47bc56b/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/7a23f26cb406dac0ccc99cee1b482041/navigation-ui-ktx-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/b138231353b678bd57b5643793db3544/navigation-runtime-ktx-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a5af290b29d18e4369202a5971e6ddde/navigation-common-ktx-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d44f6f102bec3ccc1b85c7fbfd35f8ff/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/974b9d1ce1740d84d8b60a2bca6333cf/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/8f345e6ab7e33992690ae0216d2bc6e7/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/731ae46f8ad885f42763a4639241b6d9/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.airbnb.android:lottie:3.4.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/0e46305d83d50508d876cae99e7b8b14/jetified-lottie-3.4.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/b46c36bd6631d465e2a5494e6627d3c6/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.koin:koin-androidx-viewmodel:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/ec54ba3922f6bde3f831bec9a653f867/jetified-koin-androidx-viewmodel-2.1.5/AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-androidx-scope:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c738e62478b6572be33013c1d65182a0/jetified-koin-androidx-scope-2.1.5/AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-androidx-fragment:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d31006d0d610975f8aae91ac4af3dbbb/jetified-koin-androidx-fragment-2.1.5/AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-android:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/7de355655eccca996d4ed07e0bbb14fa/jetified-koin-android-2.1.5/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/2c41bacfa3b38f6c55c16e213eaa84a5/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a9dd56c1dd58cefbf524e9c727d71cc6/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-ui:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9946e6d5b84bbcdfbdf2874397fe7ea8/navigation-ui-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/3e64b9a71a99cc283846288c9dae475d/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [org.aviran.cookiebar2:cookiebar2:1.1.3] /home/mdawood/.gradle/caches/transforms-2/files-2.1/499194b7bf45ac7761cb31d228cd9e66/jetified-cookiebar2-1.1.3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.chaos.view:pinview:1.4.3] /home/mdawood/.gradle/caches/transforms-2/files-2.1/0d0bcaaa4cb7ddd370ef1a8161c53245/jetified-pinview-1.4.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/7d2e2b4618defcd2963ba0b0a20656fb/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/02dd91bd6ad374a6bb11d7a5335a8a05/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/5389646129dc338abe866e5168d6b94b/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a041aa634d99d1f8ef61805ebfcbee34/jetified-rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/fa363d699f07e69fe0b964307765cc01/lifecycle-reactivestreams-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:hilt-android:2.28-alpha] /home/mdawood/.gradle/caches/transforms-2/files-2.1/5e8ea0d88283f30636fba9cd07b77780/jetified-hilt-android-2.28-alpha/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/60a2245c55fd2a0f027a611007b0a146/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/186a4061d823fc7294a65aafb7d2babc/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/4d57d315ba255de43b20809ff7e36306/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d084d4d30440212056537b77b5140988/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9a3a4cdfd394f4e1b3aa8c10e173742c/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c05f785d4949412be98c1b24b5ffa769/navigation-fragment-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/3c4a5fa4fc18d6ca2760375797c83f99/navigation-runtime-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/bfa2648d383cf7c6496217dd62cf763a/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/64b853a1a7226125dd0301bbdc537c2c/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/881f06849f1215802224f77a7ecdb21c/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/45366aa24215671f87bac06231702f6a/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c9cc26d85ec45656a31f97a602a659d3/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/f4865caec500f85c7b020816fde67903/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9d8bbe850792225073bc7cc1cc891d13/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/de4298a974ec1a84821684fabb27640e/navigation-common-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/2eff287fd766af19cce18c8ccabb0211/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/7551bd00ba3963e3d36b1ea16f8e58a0/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a9bccd151fe19973204bcde64f9fbe56/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/4636bf6cd350886892a5bcea137e9379/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a07faf0f78cfefa7923cb9774fe3c3f2/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/e2c932b395426536050797812e0959cd/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/536bbb47905bfec25428720660f2a2db/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/cff927d6c1893e5a7e85ea5c6b191a47/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eb0939681c468d95d4759c177ea9327a/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/3c103adc049301b1d47ddc22d8d7a5cd/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/8a0f51c9cc3b918c966303a60a6b9036/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/cd8f77608cd2d50ed8fab2a7f7cc0a78/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/e7fe829e17bd29b984b83c4c54dd4a33/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c3704216b78e2729d298b07050e4e510/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/fe0c1f9750e8d7113c636f30a6420432/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/70f99b276b34671f71b6138227ba659a/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/1f9329164f22d1bed1172c65fb77fdf7/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/8df356e2b2f13f9f4e7a0cb66a08f7f5/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.28] /home/mdawood/.gradle/caches/transforms-2/files-2.1/da9c4c32e2ca0774fb50d776dafb1cb6/jetified-dagger-lint-aar-2.28/AndroidManifest.xml:16:1-18:12
 INJECTED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:2:1-34:12
 INJECTED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:2:1-34:12
 INJECTED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:2:1-34:12
@@ -103,36 +105,36 @@ ADDED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/Andro
 		ADDED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:8:22-77
 application
 ADDED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:10:5-32:19
-MERGED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:22:5-42:19
-MERGED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:22:5-42:19
-MERGED from [com.airbnb.android:lottie:3.4.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c786d2010872499fc1f216fc7789d00a/jetified-lottie-3.4.4/AndroidManifest.xml:9:5-20
-MERGED from [com.airbnb.android:lottie:3.4.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c786d2010872499fc1f216fc7789d00a/jetified-lottie-3.4.4/AndroidManifest.xml:9:5-20
-MERGED from [org.koin:koin-androidx-viewmodel:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/fa8918c945f4290e2b97dff29a6a44fc/jetified-koin-androidx-viewmodel-2.1.5/AndroidManifest.xml:7:5-20
-MERGED from [org.koin:koin-androidx-viewmodel:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/fa8918c945f4290e2b97dff29a6a44fc/jetified-koin-androidx-viewmodel-2.1.5/AndroidManifest.xml:7:5-20
-MERGED from [org.koin:koin-androidx-scope:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/e6c93bd7dd926f18bbba938b52859732/jetified-koin-androidx-scope-2.1.5/AndroidManifest.xml:7:5-20
-MERGED from [org.koin:koin-androidx-scope:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/e6c93bd7dd926f18bbba938b52859732/jetified-koin-androidx-scope-2.1.5/AndroidManifest.xml:7:5-20
-MERGED from [org.koin:koin-androidx-fragment:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/195c282e5e0f24b0853ffd918a5bf96d/jetified-koin-androidx-fragment-2.1.5/AndroidManifest.xml:7:5-20
-MERGED from [org.koin:koin-androidx-fragment:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/195c282e5e0f24b0853ffd918a5bf96d/jetified-koin-androidx-fragment-2.1.5/AndroidManifest.xml:7:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/83ee536ff85059f31aed7ca0e988de80/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/83ee536ff85059f31aed7ca0e988de80/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.material:material:1.2.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/6927ee2c7c83df57add1b0afde3e1a15/material-1.2.1/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.2.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/6927ee2c7c83df57add1b0afde3e1a15/material-1.2.1/AndroidManifest.xml:22:5-20
-MERGED from [org.aviran.cookiebar2:cookiebar2:1.1.3] /home/mdawood/.gradle/caches/transforms-2/files-2.1/be19de71876e8fbee008b11a80289348/jetified-cookiebar2-1.1.3/AndroidManifest.xml:11:5-53
-MERGED from [org.aviran.cookiebar2:cookiebar2:1.1.3] /home/mdawood/.gradle/caches/transforms-2/files-2.1/be19de71876e8fbee008b11a80289348/jetified-cookiebar2-1.1.3/AndroidManifest.xml:11:5-53
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/b1b153a2fc9fd35e23337c581a6cd8cf/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/b1b153a2fc9fd35e23337c581a6cd8cf/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
-MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/5ab61dcf9890c6f6a20cd1fd970b82fb/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/5ab61dcf9890c6f6a20cd1fd970b82fb/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
-MERGED from [androidx.core:core:1.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/f61aee69993eeba717147da1a6c5c8bb/core-1.3.2/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/f61aee69993eeba717147da1a6c5c8bb/core-1.3.2/AndroidManifest.xml:24:5-89
-MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
-MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d4f482f6eced87448c1f9ff6b7e69905/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d4f482f6eced87448c1f9ff6b7e69905/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/4a993e2718a72ba4f84b8a60ea1226c0/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/4a993e2718a72ba4f84b8a60ea1226c0/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:22:5-42:19
+MERGED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:22:5-42:19
+MERGED from [com.airbnb.android:lottie:3.4.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/0e46305d83d50508d876cae99e7b8b14/jetified-lottie-3.4.4/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.4.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/0e46305d83d50508d876cae99e7b8b14/jetified-lottie-3.4.4/AndroidManifest.xml:9:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/ec54ba3922f6bde3f831bec9a653f867/jetified-koin-androidx-viewmodel-2.1.5/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/ec54ba3922f6bde3f831bec9a653f867/jetified-koin-androidx-viewmodel-2.1.5/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c738e62478b6572be33013c1d65182a0/jetified-koin-androidx-scope-2.1.5/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c738e62478b6572be33013c1d65182a0/jetified-koin-androidx-scope-2.1.5/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-fragment:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d31006d0d610975f8aae91ac4af3dbbb/jetified-koin-androidx-fragment-2.1.5/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-fragment:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d31006d0d610975f8aae91ac4af3dbbb/jetified-koin-androidx-fragment-2.1.5/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a9dd56c1dd58cefbf524e9c727d71cc6/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a9dd56c1dd58cefbf524e9c727d71cc6/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.2.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/3e64b9a71a99cc283846288c9dae475d/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/3e64b9a71a99cc283846288c9dae475d/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [org.aviran.cookiebar2:cookiebar2:1.1.3] /home/mdawood/.gradle/caches/transforms-2/files-2.1/499194b7bf45ac7761cb31d228cd9e66/jetified-cookiebar2-1.1.3/AndroidManifest.xml:11:5-53
+MERGED from [org.aviran.cookiebar2:cookiebar2:1.1.3] /home/mdawood/.gradle/caches/transforms-2/files-2.1/499194b7bf45ac7761cb31d228cd9e66/jetified-cookiebar2-1.1.3/AndroidManifest.xml:11:5-53
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/02dd91bd6ad374a6bb11d7a5335a8a05/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/02dd91bd6ad374a6bb11d7a5335a8a05/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/5389646129dc338abe866e5168d6b94b/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/5389646129dc338abe866e5168d6b94b/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/7551bd00ba3963e3d36b1ea16f8e58a0/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/7551bd00ba3963e3d36b1ea16f8e58a0/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a07faf0f78cfefa7923cb9774fe3c3f2/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a07faf0f78cfefa7923cb9774fe3c3f2/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c3704216b78e2729d298b07050e4e510/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c3704216b78e2729d298b07050e4e510/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/70f99b276b34671f71b6138227ba659a/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/70f99b276b34671f71b6138227ba659a/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/f61aee69993eeba717147da1a6c5c8bb/core-1.3.2/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/7551bd00ba3963e3d36b1ea16f8e58a0/core-1.3.2/AndroidManifest.xml:24:18-86
 	android:supportsRtl
 		ADDED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:16:9-35
 	android:label
@@ -173,134 +175,136 @@ uses-sdk
 INJECTED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml
 INJECTED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml
-MERGED from [androidx.databinding:databinding-adapters:4.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/6216e9621a12786946ff5402fc2f033b/databinding-adapters-4.1.1/AndroidManifest.xml:22:5-44
-MERGED from [androidx.databinding:databinding-adapters:4.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/6216e9621a12786946ff5402fc2f033b/databinding-adapters-4.1.1/AndroidManifest.xml:22:5-44
-MERGED from [androidx.databinding:databinding-runtime:4.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9aac24eb91e4f879977a5bf5b9c37157/databinding-runtime-4.1.1/AndroidManifest.xml:22:5-44
-MERGED from [androidx.databinding:databinding-runtime:4.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9aac24eb91e4f879977a5bf5b9c37157/databinding-runtime-4.1.1/AndroidManifest.xml:22:5-44
-MERGED from [androidx.databinding:viewbinding:4.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9add5d775da135dd49082ba631b3ac18/jetified-viewbinding-4.1.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.databinding:viewbinding:4.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9add5d775da135dd49082ba631b3ac18/jetified-viewbinding-4.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.multidex:multidex:2.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/8adf84f34994b9307810f5f6266cbe4a/multidex-2.0.0/AndroidManifest.xml:20:5-43
-MERGED from [androidx.multidex:multidex:2.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/8adf84f34994b9307810f5f6266cbe4a/multidex-2.0.0/AndroidManifest.xml:20:5-43
-MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d3d6a97b87579d39b06bf80027e920a7/navigation-fragment-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d3d6a97b87579d39b06bf80027e920a7/navigation-fragment-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/e9ce15cf8dc6d3f936f25d972f0bd571/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/e9ce15cf8dc6d3f936f25d972f0bd571/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/8194ac5bc2e5aaee1a1ad764ea793ad0/navigation-ui-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/8194ac5bc2e5aaee1a1ad764ea793ad0/navigation-ui-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/68fa60699eb9dcaf9e0a1cbcb2cabed6/navigation-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/68fa60699eb9dcaf9e0a1cbcb2cabed6/navigation-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9fb1653be99b87ebdb4a98b5d5351ea1/navigation-common-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9fb1653be99b87ebdb4a98b5d5351ea1/navigation-common-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity-ktx:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/85ae74c57985692f1fa3c5b181e73cd3/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity-ktx:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/85ae74c57985692f1fa3c5b181e73cd3/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core-ktx:1.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/bc7f87090ca34390094702bb2008170d/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/bc7f87090ca34390094702bb2008170d/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/bc4dc3d0cdd01db84c64a8bb8a66f7b9/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/bc4dc3d0cdd01db84c64a8bb8a66f7b9/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/13dd01b6fa0af3348f6ec10bfe85163b/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/13dd01b6fa0af3348f6ec10bfe85163b/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.airbnb.android:lottie:3.4.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c786d2010872499fc1f216fc7789d00a/jetified-lottie-3.4.4/AndroidManifest.xml:5:5-7:41
-MERGED from [com.airbnb.android:lottie:3.4.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c786d2010872499fc1f216fc7789d00a/jetified-lottie-3.4.4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/48520777e74a5e5088f9597951bf8191/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/48520777e74a5e5088f9597951bf8191/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [org.koin:koin-androidx-viewmodel:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/fa8918c945f4290e2b97dff29a6a44fc/jetified-koin-androidx-viewmodel-2.1.5/AndroidManifest.xml:5:5-44
-MERGED from [org.koin:koin-androidx-viewmodel:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/fa8918c945f4290e2b97dff29a6a44fc/jetified-koin-androidx-viewmodel-2.1.5/AndroidManifest.xml:5:5-44
-MERGED from [org.koin:koin-androidx-scope:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/e6c93bd7dd926f18bbba938b52859732/jetified-koin-androidx-scope-2.1.5/AndroidManifest.xml:5:5-44
-MERGED from [org.koin:koin-androidx-scope:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/e6c93bd7dd926f18bbba938b52859732/jetified-koin-androidx-scope-2.1.5/AndroidManifest.xml:5:5-44
-MERGED from [org.koin:koin-androidx-fragment:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/195c282e5e0f24b0853ffd918a5bf96d/jetified-koin-androidx-fragment-2.1.5/AndroidManifest.xml:5:5-44
-MERGED from [org.koin:koin-androidx-fragment:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/195c282e5e0f24b0853ffd918a5bf96d/jetified-koin-androidx-fragment-2.1.5/AndroidManifest.xml:5:5-44
-MERGED from [org.koin:koin-android:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/2f1fbafacb8a59440cd3322e3dbfa073/jetified-koin-android-2.1.5/AndroidManifest.xml:5:5-44
-MERGED from [org.koin:koin-android:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/2f1fbafacb8a59440cd3322e3dbfa073/jetified-koin-android-2.1.5/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/7d67ad7ac45429e60c202009faa29f2d/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/7d67ad7ac45429e60c202009faa29f2d/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/83ee536ff85059f31aed7ca0e988de80/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/83ee536ff85059f31aed7ca0e988de80/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.navigation:navigation-ui:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/75fc90dd4804fcdb8bdb4d9b8646f5a5/navigation-ui-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-ui:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/75fc90dd4804fcdb8bdb4d9b8646f5a5/navigation-ui-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.material:material:1.2.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/6927ee2c7c83df57add1b0afde3e1a15/material-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.2.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/6927ee2c7c83df57add1b0afde3e1a15/material-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [org.aviran.cookiebar2:cookiebar2:1.1.3] /home/mdawood/.gradle/caches/transforms-2/files-2.1/be19de71876e8fbee008b11a80289348/jetified-cookiebar2-1.1.3/AndroidManifest.xml:7:5-9:41
-MERGED from [org.aviran.cookiebar2:cookiebar2:1.1.3] /home/mdawood/.gradle/caches/transforms-2/files-2.1/be19de71876e8fbee008b11a80289348/jetified-cookiebar2-1.1.3/AndroidManifest.xml:7:5-9:41
-MERGED from [com.chaos.view:pinview:1.4.3] /home/mdawood/.gradle/caches/transforms-2/files-2.1/acf522540627a28212a9c4b7141b7b62/jetified-pinview-1.4.3/AndroidManifest.xml:20:5-22:41
-MERGED from [com.chaos.view:pinview:1.4.3] /home/mdawood/.gradle/caches/transforms-2/files-2.1/acf522540627a28212a9c4b7141b7b62/jetified-pinview-1.4.3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c6e850bffee516928e276ea7faf33a10/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c6e850bffee516928e276ea7faf33a10/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/b1b153a2fc9fd35e23337c581a6cd8cf/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/b1b153a2fc9fd35e23337c581a6cd8cf/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/5ab61dcf9890c6f6a20cd1fd970b82fb/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/5ab61dcf9890c6f6a20cd1fd970b82fb/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/b7620d30dd1d45afeff09bc267c483cb/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/b7620d30dd1d45afeff09bc267c483cb/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
-MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/f562a51ce65c2165fe2c202fa2092504/lifecycle-reactivestreams-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/f562a51ce65c2165fe2c202fa2092504/lifecycle-reactivestreams-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/366542bdc63c3dbd0b09bb106fe4a8e0/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/366542bdc63c3dbd0b09bb106fe4a8e0/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/694d0be3fb304a602e963f34c6dab06a/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/694d0be3fb304a602e963f34c6dab06a/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/f379d95d0ff945370307735e7dfa5572/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/f379d95d0ff945370307735e7dfa5572/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/6cbf3df7a545fb9e98deff97defeff25/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/6cbf3df7a545fb9e98deff97defeff25/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d5e5b995853df9e3b0d1abde469bc084/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d5e5b995853df9e3b0d1abde469bc084/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c180c8861ac2568bd3842aa72a8d759a/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c180c8861ac2568bd3842aa72a8d759a/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-fragment:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/4f0e8ca2c0139c349b72e334208aeeca/navigation-fragment-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-fragment:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/4f0e8ca2c0139c349b72e334208aeeca/navigation-fragment-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/607c3024a4a518600029405bb42bec02/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/607c3024a4a518600029405bb42bec02/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/be488b41fa4da0b2563ef53aa9c1f1eb/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/be488b41fa4da0b2563ef53aa9c1f1eb/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/271e6de7ce9db873cdad8b436fb11a39/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/271e6de7ce9db873cdad8b436fb11a39/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/b1af35d851a7b1902f51e36b8a695b43/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/b1af35d851a7b1902f51e36b8a695b43/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.3.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/bf47b15611f180761b95369d1114cca0/transition-1.3.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.3.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/bf47b15611f180761b95369d1114cca0/transition-1.3.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-runtime:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/4a62a29312f56a40a75ec9e7947a7b6d/navigation-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-runtime:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/4a62a29312f56a40a75ec9e7947a7b6d/navigation-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d5be92d481b88379306553ef9460f368/navigation-common-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common:2.3.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d5be92d481b88379306553ef9460f368/navigation-common-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/e92b80f40cbcad08b59a54beaa5f20da/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/e92b80f40cbcad08b59a54beaa5f20da/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.loader:loader:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/0c7c4d6c761a5f35ff1701d1fe2abe7e/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/0c7c4d6c761a5f35ff1701d1fe2abe7e/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/f61aee69993eeba717147da1a6c5c8bb/core-1.3.2/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/f61aee69993eeba717147da1a6c5c8bb/core-1.3.2/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/3399da4652887216b1f15e9fea5a64cb/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/3399da4652887216b1f15e9fea5a64cb/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/3990a8ed717bd2bc6e24bbecabdfebbf/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/3990a8ed717bd2bc6e24bbecabdfebbf/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/4d2b5f6b901203aa4dad0425927369ae/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/4d2b5f6b901203aa4dad0425927369ae/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a95739b442976ac2d9de40a12086ee6d/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a95739b442976ac2d9de40a12086ee6d/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/33562edb2724523aa489688f428b2164/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/33562edb2724523aa489688f428b2164/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/933d816f20c84747cf4b75c608cb4345/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/933d816f20c84747cf4b75c608cb4345/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/5bad58fed49503834bcb7778444163d8/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/5bad58fed49503834bcb7778444163d8/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d54b1e1a7f5f51df407f964db1685795/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d54b1e1a7f5f51df407f964db1685795/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/6b104855c44408f13ab9134850e3a15c/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/6b104855c44408f13ab9134850e3a15c/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9ef2c05b6d3d960e32ce5469d4905268/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9ef2c05b6d3d960e32ce5469d4905268/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d4f482f6eced87448c1f9ff6b7e69905/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d4f482f6eced87448c1f9ff6b7e69905/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/795748223de1c9ed5d3eb4dba9fd32b6/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/795748223de1c9ed5d3eb4dba9fd32b6/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/4a993e2718a72ba4f84b8a60ea1226c0/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/4a993e2718a72ba4f84b8a60ea1226c0/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c4504c46a8f8c951228c8b302e2173c2/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c4504c46a8f8c951228c8b302e2173c2/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/139dd713697991e78371aa7203510e73/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/139dd713697991e78371aa7203510e73/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/37d87ab15009631f1643dbbd74eff5aa/databinding-adapters-4.1.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/37d87ab15009631f1643dbbd74eff5aa/databinding-adapters-4.1.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/828894006eb648bf8df8be18af359b33/databinding-runtime-4.1.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/828894006eb648bf8df8be18af359b33/databinding-runtime-4.1.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/8646696e4c31ae2704ad34319d60cb3f/jetified-viewbinding-4.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/8646696e4c31ae2704ad34319d60cb3f/jetified-viewbinding-4.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/5d69d6df020acd82e72995030cc07544/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/5d69d6df020acd82e72995030cc07544/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/0416472acf4a5e446de2c99f1453bfef/navigation-fragment-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/0416472acf4a5e446de2c99f1453bfef/navigation-fragment-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/ac038d699e35528fa98dc9ecd47bc56b/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/ac038d699e35528fa98dc9ecd47bc56b/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/7a23f26cb406dac0ccc99cee1b482041/navigation-ui-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/7a23f26cb406dac0ccc99cee1b482041/navigation-ui-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/b138231353b678bd57b5643793db3544/navigation-runtime-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/b138231353b678bd57b5643793db3544/navigation-runtime-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a5af290b29d18e4369202a5971e6ddde/navigation-common-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a5af290b29d18e4369202a5971e6ddde/navigation-common-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d44f6f102bec3ccc1b85c7fbfd35f8ff/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d44f6f102bec3ccc1b85c7fbfd35f8ff/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/974b9d1ce1740d84d8b60a2bca6333cf/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/974b9d1ce1740d84d8b60a2bca6333cf/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/8f345e6ab7e33992690ae0216d2bc6e7/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/8f345e6ab7e33992690ae0216d2bc6e7/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/731ae46f8ad885f42763a4639241b6d9/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/731ae46f8ad885f42763a4639241b6d9/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.airbnb.android:lottie:3.4.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/0e46305d83d50508d876cae99e7b8b14/jetified-lottie-3.4.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.4.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/0e46305d83d50508d876cae99e7b8b14/jetified-lottie-3.4.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/b46c36bd6631d465e2a5494e6627d3c6/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/b46c36bd6631d465e2a5494e6627d3c6/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.koin:koin-androidx-viewmodel:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/ec54ba3922f6bde3f831bec9a653f867/jetified-koin-androidx-viewmodel-2.1.5/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-viewmodel:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/ec54ba3922f6bde3f831bec9a653f867/jetified-koin-androidx-viewmodel-2.1.5/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c738e62478b6572be33013c1d65182a0/jetified-koin-androidx-scope-2.1.5/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c738e62478b6572be33013c1d65182a0/jetified-koin-androidx-scope-2.1.5/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-fragment:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d31006d0d610975f8aae91ac4af3dbbb/jetified-koin-androidx-fragment-2.1.5/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-fragment:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d31006d0d610975f8aae91ac4af3dbbb/jetified-koin-androidx-fragment-2.1.5/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/7de355655eccca996d4ed07e0bbb14fa/jetified-koin-android-2.1.5/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:2.1.5] /home/mdawood/.gradle/caches/transforms-2/files-2.1/7de355655eccca996d4ed07e0bbb14fa/jetified-koin-android-2.1.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/2c41bacfa3b38f6c55c16e213eaa84a5/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/2c41bacfa3b38f6c55c16e213eaa84a5/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a9dd56c1dd58cefbf524e9c727d71cc6/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a9dd56c1dd58cefbf524e9c727d71cc6/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9946e6d5b84bbcdfbdf2874397fe7ea8/navigation-ui-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9946e6d5b84bbcdfbdf2874397fe7ea8/navigation-ui-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/3e64b9a71a99cc283846288c9dae475d/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/3e64b9a71a99cc283846288c9dae475d/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [org.aviran.cookiebar2:cookiebar2:1.1.3] /home/mdawood/.gradle/caches/transforms-2/files-2.1/499194b7bf45ac7761cb31d228cd9e66/jetified-cookiebar2-1.1.3/AndroidManifest.xml:7:5-9:41
+MERGED from [org.aviran.cookiebar2:cookiebar2:1.1.3] /home/mdawood/.gradle/caches/transforms-2/files-2.1/499194b7bf45ac7761cb31d228cd9e66/jetified-cookiebar2-1.1.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.chaos.view:pinview:1.4.3] /home/mdawood/.gradle/caches/transforms-2/files-2.1/0d0bcaaa4cb7ddd370ef1a8161c53245/jetified-pinview-1.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.chaos.view:pinview:1.4.3] /home/mdawood/.gradle/caches/transforms-2/files-2.1/0d0bcaaa4cb7ddd370ef1a8161c53245/jetified-pinview-1.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/7d2e2b4618defcd2963ba0b0a20656fb/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/7d2e2b4618defcd2963ba0b0a20656fb/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/02dd91bd6ad374a6bb11d7a5335a8a05/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/02dd91bd6ad374a6bb11d7a5335a8a05/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/5389646129dc338abe866e5168d6b94b/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/5389646129dc338abe866e5168d6b94b/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a041aa634d99d1f8ef61805ebfcbee34/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a041aa634d99d1f8ef61805ebfcbee34/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/fa363d699f07e69fe0b964307765cc01/lifecycle-reactivestreams-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/fa363d699f07e69fe0b964307765cc01/lifecycle-reactivestreams-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:hilt-android:2.28-alpha] /home/mdawood/.gradle/caches/transforms-2/files-2.1/5e8ea0d88283f30636fba9cd07b77780/jetified-hilt-android-2.28-alpha/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.28-alpha] /home/mdawood/.gradle/caches/transforms-2/files-2.1/5e8ea0d88283f30636fba9cd07b77780/jetified-hilt-android-2.28-alpha/AndroidManifest.xml:18:3-42
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/60a2245c55fd2a0f027a611007b0a146/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/60a2245c55fd2a0f027a611007b0a146/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/186a4061d823fc7294a65aafb7d2babc/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/186a4061d823fc7294a65aafb7d2babc/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/4d57d315ba255de43b20809ff7e36306/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/4d57d315ba255de43b20809ff7e36306/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d084d4d30440212056537b77b5140988/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d084d4d30440212056537b77b5140988/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9a3a4cdfd394f4e1b3aa8c10e173742c/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9a3a4cdfd394f4e1b3aa8c10e173742c/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c05f785d4949412be98c1b24b5ffa769/navigation-fragment-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c05f785d4949412be98c1b24b5ffa769/navigation-fragment-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/3c4a5fa4fc18d6ca2760375797c83f99/navigation-runtime-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/3c4a5fa4fc18d6ca2760375797c83f99/navigation-runtime-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/bfa2648d383cf7c6496217dd62cf763a/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /home/mdawood/.gradle/caches/transforms-2/files-2.1/bfa2648d383cf7c6496217dd62cf763a/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/64b853a1a7226125dd0301bbdc537c2c/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/64b853a1a7226125dd0301bbdc537c2c/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/881f06849f1215802224f77a7ecdb21c/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/881f06849f1215802224f77a7ecdb21c/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/45366aa24215671f87bac06231702f6a/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/mdawood/.gradle/caches/transforms-2/files-2.1/45366aa24215671f87bac06231702f6a/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c9cc26d85ec45656a31f97a602a659d3/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c9cc26d85ec45656a31f97a602a659d3/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/f4865caec500f85c7b020816fde67903/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/f4865caec500f85c7b020816fde67903/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9d8bbe850792225073bc7cc1cc891d13/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/9d8bbe850792225073bc7cc1cc891d13/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/de4298a974ec1a84821684fabb27640e/navigation-common-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/de4298a974ec1a84821684fabb27640e/navigation-common-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/2eff287fd766af19cce18c8ccabb0211/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/2eff287fd766af19cce18c8ccabb0211/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/7551bd00ba3963e3d36b1ea16f8e58a0/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /home/mdawood/.gradle/caches/transforms-2/files-2.1/7551bd00ba3963e3d36b1ea16f8e58a0/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a9bccd151fe19973204bcde64f9fbe56/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a9bccd151fe19973204bcde64f9fbe56/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/4636bf6cd350886892a5bcea137e9379/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/4636bf6cd350886892a5bcea137e9379/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a07faf0f78cfefa7923cb9774fe3c3f2/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a07faf0f78cfefa7923cb9774fe3c3f2/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/e2c932b395426536050797812e0959cd/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/e2c932b395426536050797812e0959cd/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/536bbb47905bfec25428720660f2a2db/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/536bbb47905bfec25428720660f2a2db/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/cff927d6c1893e5a7e85ea5c6b191a47/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/cff927d6c1893e5a7e85ea5c6b191a47/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eb0939681c468d95d4759c177ea9327a/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eb0939681c468d95d4759c177ea9327a/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/3c103adc049301b1d47ddc22d8d7a5cd/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/3c103adc049301b1d47ddc22d8d7a5cd/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/8a0f51c9cc3b918c966303a60a6b9036/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/8a0f51c9cc3b918c966303a60a6b9036/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/cd8f77608cd2d50ed8fab2a7f7cc0a78/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/cd8f77608cd2d50ed8fab2a7f7cc0a78/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/e7fe829e17bd29b984b83c4c54dd4a33/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/e7fe829e17bd29b984b83c4c54dd4a33/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c3704216b78e2729d298b07050e4e510/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/c3704216b78e2729d298b07050e4e510/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/fe0c1f9750e8d7113c636f30a6420432/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/fe0c1f9750e8d7113c636f30a6420432/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/70f99b276b34671f71b6138227ba659a/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/70f99b276b34671f71b6138227ba659a/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/1f9329164f22d1bed1172c65fb77fdf7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/1f9329164f22d1bed1172c65fb77fdf7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/8df356e2b2f13f9f4e7a0cb66a08f7f5/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/8df356e2b2f13f9f4e7a0cb66a08f7f5/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
 INJECTED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml
 INJECTED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -312,46 +316,52 @@ INJECTED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/An
 		ADDED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml
 		INJECTED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml
 provider#com.readystatesoftware.chuck.internal.data.ChuckContentProvider
-ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:23:9-26:40
+ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:23:9-26:40
 	android:authorities
-		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:25:13-66
+		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:25:13-66
 	android:exported
-		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:26:13-37
+		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:24:13-91
+		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:24:13-91
 activity#com.readystatesoftware.chuck.internal.ui.MainActivity
-ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:28:9-33:50
+ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:28:9-33:50
 	android:label
-		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:30:13-47
+		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:30:13-47
 	android:launchMode
-		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:31:13-44
+		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:31:13-44
 	android:theme
-		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:33:13-47
+		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:33:13-47
 	android:taskAffinity
-		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:32:13-69
+		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:32:13-69
 	android:name
-		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:29:13-81
+		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:29:13-81
 activity#com.readystatesoftware.chuck.internal.ui.TransactionActivity
-ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:34:9-37:50
+ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:34:9-37:50
 	android:parentActivityName
-		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:36:13-95
+		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:36:13-95
 	android:theme
-		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:37:13-47
+		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:37:13-47
 	android:name
-		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:35:13-88
+		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:35:13-88
 service#com.readystatesoftware.chuck.internal.support.ClearTransactionsService
-ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:39:9-41:40
+ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:39:9-41:40
 	android:exported
-		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:41:13-37
+		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:41:13-37
 	android:name
-		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/100cb13eaf44c1047fb36113222d15b1/jetified-library-1.1.0/AndroidManifest.xml:40:13-98
+		ADDED from [com.readystatesoftware.chuck:library:1.1.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/eefcd9cd973b95fb438e566fa49cdbdd/jetified-library-1.1.0/AndroidManifest.xml:40:13-98
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a07faf0f78cfefa7923cb9774fe3c3f2/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
 	android:authorities
-		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a07faf0f78cfefa7923cb9774fe3c3f2/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
 	android:multiprocess
-		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a07faf0f78cfefa7923cb9774fe3c3f2/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
 	android:exported
-		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a07faf0f78cfefa7923cb9774fe3c3f2/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mdawood/.gradle/caches/transforms-2/files-2.1/a07faf0f78cfefa7923cb9774fe3c3f2/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:2:1-34:12 reason: dagger.lint has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:2:1-34:12 reason: dagger.lint has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /mnt/Mohamed/Android/AndroidStudioProjects/NyTimes/app/src/main/AndroidManifest.xml:2:1-34:12 reason: dagger.lint requested WRITE_EXTERNAL_STORAGE
